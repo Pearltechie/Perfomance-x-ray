@@ -1,0 +1,11 @@
+{
+  "manifest_version": 3,
+  "name": "Performance X-Ray & Fixer",
+  "version": "1.0.0",
+  "description": "Tracks layout thrashing and generates hardware-accelerated code fixes.",
+  "permissions": [
+    "activeTab",
+    "scripting"
+  ],
+  "devtools_page": "devtools.html"
+}
